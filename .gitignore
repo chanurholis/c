@@ -1,8 +1,4 @@
 .vscode
-
-# Ignore all files
-*
-
-# Include .c files
 !*.c
 !*.gitignore
+!*.txt
