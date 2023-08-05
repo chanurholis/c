@@ -1,4 +1,14 @@
-.vscode
-!*.c
-!*.gitignore
-!*.txt
+# .vscode
+
+# # Ignore all files
+# *
+
+# # Include .c files
+# !*.c
+# algorithm/!*.c
+# case/!*.c
+# forum/!*.c
+
+# !*.gitignore
+
+*
